@@ -1,0 +1,5 @@
+{
+  "name": "My Website Builder",
+  "description": "A visually appealing dashboard to manage and view a list of your created websites in a block-style format. Easily add new websites to your collection.",
+  "requestFramePermissions": []
+}
